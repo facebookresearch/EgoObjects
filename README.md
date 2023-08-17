@@ -42,7 +42,7 @@ If you find this code/data useful in your research then please cite our paper:
 ```
 @inproceedings{zhu2023egoobjects,
   title={EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding},
-  author={Zhu, Chenchen and Xiao, Fanyi and Alvarado, Andrés and Babaei, Yasmine and Hu, Jiabo and El-Mohri, Hichem and Chang, Sean and Sumbaly, Rosham and Yan, Zhicheng},
+  author={Zhu, Chenchen and Xiao, Fanyi and Alvarado, Andrés and Babaei, Yasmine and Hu, Jiabo and El-Mohri, Hichem and Chang, Sean and Sumbaly, Roshan and Yan, Zhicheng},
   booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
   year={2023}
 }
