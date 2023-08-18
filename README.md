@@ -1,5 +1,5 @@
 <p align="center">
-# <img src="images/egoobjects_icon.svg" height="250" align="center">
+<img src="images/egoobjects_icon.svg" height="300" align="center">
 </p>
 # EgoObjects API
 
