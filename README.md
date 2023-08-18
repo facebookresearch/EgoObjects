@@ -1,4 +1,4 @@
-# <img src="images/egoobjects_icon.svg" height="250" class="center">
+# <img src="images/egoobjects_icon.svg" height="250" align="center">
 # EgoObjects API
 
 EgoObjects is a large-scale egocentric dataset for fine-grained object understanding, which features videos captured by various wearable devices at worldwide locations, objects from a diverse set of categories commonly seen in indoor environments, and videos of the same object instance captured under diverse conditions. The dataset supports both the conventional category-level as well as the novel instance-level object detection task.
