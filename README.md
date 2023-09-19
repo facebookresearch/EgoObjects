@@ -3,13 +3,17 @@
 </p>
 
 # EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding
-[Chenchen Zhu](https://sites.google.com/andrew.cmu.edu/zcckernel), [Fanyi Xiao](https://fanyix.cs.ucdavis.edu/), [Andres Alvarado](https://www.linkedin.com/in/josecarlos12/), [Yasmine Babaei](https://www.linkedin.com/in/yasminebabaei/), [Jiabo Hu](https://www.linkedin.com/in/jiabo-hu-1321b1121/), [Hichem El-Mohri](https://www.linkedin.com/in/hichem-elmohri/), [Sean Chang Culatana](https://ai.meta.com/people/sean-chang-culatana/), [Roshan Sumbaly](https://www.linkedin.com/in/rsumbaly/), [Zhicheng Yan](https://sites.google.com/view/zhicheng-yan)
+[Chenchen Zhu](https://sites.google.com/andrew.cmu.edu/zcckernel), [Fanyi Xiao](https://fanyix.cs.ucdavis.edu/), [Andres Alvarado](https://www.linkedin.com/in/josecarlos12/), [Yasmine Babaei](https://www.linkedin.com/in/yasminebabaei/), [Jiabo Hu](https://www.linkedin.com/in/jiabo-hu-1321b1121/),
+
+[Hichem El-Mohri](https://www.linkedin.com/in/hichem-elmohri/), [Sean Chang Culatana](https://ai.meta.com/people/sean-chang-culatana/), [Roshan Sumbaly](https://www.linkedin.com/in/rsumbaly/), [Zhicheng Yan](https://sites.google.com/view/zhicheng-yan)
+
+**Meta AI**
+
+<a href='https://github.com/facebookresearch/EgoObjects'><img src='https://img.shields.io/badge/Project-Page-Green'></a> <a href='https://arxiv.org/abs/2309.08816'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
 
 EgoObjects is a large-scale egocentric dataset for fine-grained object understanding, which features videos captured by various wearable devices at worldwide locations, objects from a diverse set of categories commonly seen in indoor environments, and videos of the same object instance captured under diverse conditions. The dataset supports both the conventional category-level as well as the novel instance-level object detection task.
 
 <img src="images/intro.png"/>
-
-[[`arXiv`](https://arxiv.org/abs/2309.08816)]
 
 ## EgoObjects v1.0
 
@@ -43,7 +47,14 @@ If setup correctly, run our evaluation example code to get mock results for cate
 python example.py
 ```
 
+## Timeline
+- 23' Sep 6, EgoObjects v1.0, including both data and annotations, is open sourced.
+- 23' March, EgoObjects v1.0 is covered by <a href="https://research.facebook.com/blog/2023/3/egoobjects-large-scale-egocentric-dataset-for-category-and-instance-level-object-understanding/">Meta AI</a>
+- 22' July, an earlier version of EgoObjects dataset is adopted by the <a href="https://sites.google.com/view/clvision2022/challenge"> Continual Learning Challenge in the 3rd CLVISION Workshop</a> at CVPR.
+- 22' March, EgoObjects is first introduced by <a href="https://ai.meta.com/blog/advancing-first-person-perception-with-2022-ego4d-challenge/#ego-objects">Meta AI Blog</a>
+
 ## Citing EgoObjects
+Paper link: [[`arXiv`](https://arxiv.org/abs/2309.08816)]
 
 If you find this code/data useful in your research then please cite our paper:
 ```
