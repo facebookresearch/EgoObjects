@@ -2,7 +2,7 @@
 <img src="images/logo.png" height="300" align="center">
 </p>
 
-# EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding
+# [EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding](https://arxiv.org/abs/2309.08816)
 [Chenchen Zhu](https://sites.google.com/andrew.cmu.edu/zcckernel), [Fanyi Xiao](https://fanyix.cs.ucdavis.edu/), [Andres Alvarado](https://www.linkedin.com/in/josecarlos12/), [Yasmine Babaei](https://www.linkedin.com/in/yasminebabaei/), [Jiabo Hu](https://www.linkedin.com/in/jiabo-hu-1321b1121/),
 
 [Hichem El-Mohri](https://www.linkedin.com/in/hichem-elmohri/), [Sean Chang Culatana](https://ai.meta.com/people/sean-chang-culatana/), [Roshan Sumbaly](https://www.linkedin.com/in/rsumbaly/), [Zhicheng Yan](https://sites.google.com/view/zhicheng-yan)
