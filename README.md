@@ -2,7 +2,8 @@
 <img src="images/logo.png" height="300" align="center">
 </p>
 
-# EgoObjects API
+# EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding
+[Chenchen Zhu](https://sites.google.com/andrew.cmu.edu/zcckernel), [Fanyi Xiao](https://fanyix.cs.ucdavis.edu/), [Andres Alvarado](https://www.linkedin.com/in/josecarlos12/), [Yasmine Babaei](https://www.linkedin.com/in/yasminebabaei/), [Jiabo Hu](https://www.linkedin.com/in/jiabo-hu-1321b1121/), [Hichem El-Mohri](https://www.linkedin.com/in/hichem-elmohri/), [Sean Chang Culatana](https://ai.meta.com/people/sean-chang-culatana/), [Roshan Sumbaly](https://www.linkedin.com/in/rsumbaly/), [Zhicheng Yan](https://sites.google.com/view/zhicheng-yan)
 
 EgoObjects is a large-scale egocentric dataset for fine-grained object understanding, which features videos captured by various wearable devices at worldwide locations, objects from a diverse set of categories commonly seen in indoor environments, and videos of the same object instance captured under diverse conditions. The dataset supports both the conventional category-level as well as the novel instance-level object detection task.
 
