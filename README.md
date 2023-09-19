@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/logo.png" height="300" align="center">
+<img src="images/logo.png" height="500" align="center">
 </p>
 
 # [EgoObjects: A Large-Scale Egocentric Dataset for Fine-Grained Object Understanding](https://arxiv.org/abs/2309.08816)
