@@ -29,6 +29,8 @@ EgoObjects is a large-scale egocentric dataset for fine-grained object understan
 
 For this release, we have annotated 114K frames (79K train, 5.7K val, 29.5K test) sampled from 9K+ videos collected by 250 participants across the world. A total of 14.4K unique object instances from 368 categories are annotated. Among them, there are 1.3K main object instances from 206 categories and 13.1K secondary object instances (i.e., objects accompanying the main object) from 353 categories. On average, each image is annotated with 5.6 instances from 4.8 categories, and each object instance appears in 44.8 images, which ensures diverse viewing directions for the object. 
 
+## Dataset downloading
+
 Release v1.0 is publicly available from this [page](https://ai.meta.com/datasets/egoobjects-downloads). Images (~40G) can be downloaded from file `EgoObjectsV1_images.zip`. Unified annotations for category and instance level object detection can be downloaded from files including `EgoObjectsV1_unified_train.json`, `EgoObjectsV1_unified_eval.json`, and `EgoObjectsV1_unified_metadata.json`. They can be placed under `$EgoObjects_ROOT/data/`. We follow the same data format as [LVIS](https://www.lvisdataset.org/dataset) with EgoObjects specific changes.
 
 ## Setup
