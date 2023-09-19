@@ -60,7 +60,7 @@ python example.py
 ## Timeline
 - 23' Sep 6, EgoObjects v1.0, including both data and annotations, is open sourced.
 - 23' March, EgoObjects v1.0 is covered by <a href="https://research.facebook.com/blog/2023/3/egoobjects-large-scale-egocentric-dataset-for-category-and-instance-level-object-understanding/">Meta AI</a>
-- 22' July, an earlier version of EgoObjects dataset is adopted by the <a href="https://sites.google.com/view/clvision2022/challenge"> Continual Learning Challenge in the 3rd CLVISION Workshop</a> at CVPR.
+- 22' June, an earlier version of EgoObjects dataset is adopted by the <a href="https://sites.google.com/view/clvision2022/challenge"> Continual Learning Challenge in the 3rd CLVISION Workshop</a> at CVPR.
 - 22' March, EgoObjects is first introduced by <a href="https://ai.meta.com/blog/advancing-first-person-perception-with-2022-ego4d-challenge/#ego-objects">Meta AI Blog</a>
 
 ## Citing EgoObjects
