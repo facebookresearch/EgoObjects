@@ -65,6 +65,12 @@ python example.py
 - 22' June, an earlier version of EgoObjects dataset is adopted by the <a href="https://sites.google.com/view/clvision2022/challenge"> Continual Learning Challenge in the 3rd CLVISION Workshop</a> at CVPR.
 - 22' March, EgoObjects is first introduced by <a href="https://ai.meta.com/blog/advancing-first-person-perception-with-2022-ego4d-challenge/#ego-objects">Meta AI Blog</a>
 
+## EgoObjects ICCV 23' Poster
+
+<p align="center">
+<img src="images/ICCV2023_poster_EgoObjects.jpg" height="500" align="center">
+</p>
+
 ## Citing EgoObjects
 Paper link: [[`arXiv`](https://arxiv.org/abs/2309.08816)]
 
